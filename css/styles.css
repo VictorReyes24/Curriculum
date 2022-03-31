@@ -117,7 +117,9 @@ p {
   #hero .rotating > .animated {
     display: inline-block;
   }
-  
+  .morphext > .animated {
+    display: inline-block;
+}
   #hero .actions a {
     font-family: "Raleway", sans-serif;
     text-transform: uppercase;
@@ -142,3 +144,4 @@ p {
     border: 2px solid #fff;
     color: #fff;
   }
+
